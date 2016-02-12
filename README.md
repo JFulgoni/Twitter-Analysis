@@ -1,4 +1,7 @@
-# Twitter-Analysis
-# John Fulgoni
+# Twitter-Analysis by John Fulgoni
 
-Using NLTK and python-twitter
+12 February 2016
+John Fulgoni
+
+Project analyzing Tweets using NLTK and python-twitter.
+Let's see how this goes...
